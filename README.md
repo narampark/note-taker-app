@@ -28,7 +28,7 @@ N/A
 N/A
 
 ## Questions
-Email any questions to narampark92@gmail.com or visit https://github.com/narampark/note-taker-app
+Email any questions to narampark92@gmail.com or visit https://github.com/narampark/note-taker-app or https://agile-forest-22508-af40b3a5c88d.herokuapp.com/
 
 ![Alt text](./images/Screen%20Shot%202023-11-12%20at%205.37.03%20PM.png)
 ![Alt text](./images/Screen%20Shot%202023-11-12%20at%205.37.32%20PM.png)
