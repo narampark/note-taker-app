@@ -29,3 +29,7 @@ N/A
 
 ## Questions
 Email any questions to narampark92@gmail.com or visit https://github.com/narampark/note-taker-app
+
+![Alt text](./images/Screen%20Shot%202023-11-12%20at%205.37.03%20PM.png)
+![Alt text](./images/Screen%20Shot%202023-11-12%20at%205.37.32%20PM.png)
+![Alt text](./images/Screen%20Shot%202023-11-12%20at%205.37.12%20PM.png)
